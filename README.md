@@ -49,7 +49,7 @@ Before starting, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/xora.git
+   git clone https://github.com/SKele10/Xora.git
    cd xora
    ```
 
@@ -101,3 +101,7 @@ Before starting, ensure you have the following installed:
    - [AWS S3](https://aws.amazon.com/s3/)
 
 ---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
